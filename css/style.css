@@ -1,3 +1,9 @@
 html{
   box-sizing: border-box;
 }
+body{
+  background-color: #e2caca;
+}
+header{
+  background-color:red;
+}
